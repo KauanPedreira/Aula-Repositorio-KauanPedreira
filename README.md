@@ -1,4 +1,5 @@
 # Aula-Repositorio-KauanPedreira
 Este é um repositório criado para a aula de Requisitos de Software.
-![Gon](https://github.com/KauanPedreira/Aula-Repositorio-KauanPedreira/assets/164585659/af74ade4-8314-4d52-83fb-865c293220bc)
-![Killua](https://github.com/KauanPedreira/Aula-Repositorio-KauanPedreira/assets/164585659/8c2e4980-bdbd-454a-a258-41e8cb168ce3)
+
+
+![Gon](https://github.com/KauanPedreira/Aula-Repositorio-KauanPedreira/assets/164585659/af74ade4-8314-4d52-83fb-865c293220bc) ![ee4b3c93fabcca7914039019aa55d876](https://github.com/KauanPedreira/Aula-Repositorio-KauanPedreira/assets/164585659/e67ffffb-c172-4727-a9b6-56c08dc951b6)
